@@ -26,6 +26,3 @@ The repository covers a wide range of Python concepts, including but not limited
 
 The repository is organized into different directories, each focusing on a specific concept or topic. 
 
-
-
-\
